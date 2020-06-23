@@ -1,6 +1,6 @@
 # wa4e
 
-### Assignment of "Building Web Applications in PHP" course from coursera specilization "Web Applications for Everybody".
+### Assignment of "Building Web Applications in PHP" course from "Web Applications for Everybody" coursera specilization.
 
 Course offered by: **University of Michigan**
 
