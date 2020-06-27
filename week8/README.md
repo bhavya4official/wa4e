@@ -1,4 +1,4 @@
-Rock Paper Scissors
+Rock Paper Scissors Game
 --------------------------
 
 Here is a URL to the broken version of this application:
